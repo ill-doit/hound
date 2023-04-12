@@ -13,8 +13,7 @@ printf '       ███████ ██    ██ ██    ██ ██ �
 printf '       ██   ██ ██    ██ ██    ██ ██  ██ ██ ██   ██ \n'
 printf '       ██   ██  ██████   ██████  ██   ████ ██████  \n\n'
 printf '\e[1;31m       ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n'                                                                                
-printf " \e[1;93m      Hound Ver 0.1 - by Anil Parashar [TechChip]\e[0m \n"
-printf " \e[1;92m      www.techchip.net | youtube.com/techchipnet \e[0m \n"
+printf " \e[1;93m      Hound Ver 0.1 -  Hello Hawk Skull\e[0m \n"
 printf "\e[1;90m Hound is a simple and light tool for information gathering and capture GPS coordinates.\e[0m \n"
 printf "\n"
 }
